@@ -1,4 +1,3 @@
-import re
 import sqlite3
 
 # This code creates the db file if it dont exsist.
